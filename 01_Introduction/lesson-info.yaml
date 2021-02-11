@@ -7,7 +7,3 @@ content:
 - f Data classes
 - g Nullable types
 - h Smart casts
-- i Extension functions
-- j Object Expression
-- k SAM Conversions
-- l Extensions on Collections

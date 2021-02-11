@@ -4,10 +4,9 @@ summary: Kotlin Koans are a series of exercises to get you familiar with the Kot
   syntax
 programming_language: Kotlin
 content:
-- Introduction
-- Classes
-- Conventions
-- Collections
-- Properties
-- Builders
-- Generics
+- 01_Introduction
+- 02_Conventions
+- 03_Collections
+- 04_Properties
+- 05_Builders
+- 06_Generics
