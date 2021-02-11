@@ -1,5 +1,5 @@
 content:
-- Properties
-- Lazy property
-- Delegates examples
-- Delegates how it works
+  - a Properties
+  - b Lazy property
+  - c Delegates examples
+  - d Delegates how it works
