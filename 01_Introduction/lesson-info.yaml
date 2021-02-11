@@ -1,9 +1,13 @@
 content:
-- Hello, world!
-- Named arguments
-- Default arguments
-- Triple-quoted strings
-- String templates
-- Nullable types
-- Nothing type
-- Lambdas
+- a Hello, world!
+- b Named arguments
+- c Default arguments
+- d Lambdas
+- e String templates
+- f Data classes
+- g Nullable types
+- h Smart casts
+- i Extension functions
+- j Object Expression
+- k SAM Conversions
+- l Extensions on Collections
