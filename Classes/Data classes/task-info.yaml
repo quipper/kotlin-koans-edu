@@ -5,6 +5,6 @@ files:
   placeholders:
   - offset: 0
     length: 49
-    placeholder_text: class Person
+    placeholder_text: TODO()
 - name: test/tests.kt
   visible: false
