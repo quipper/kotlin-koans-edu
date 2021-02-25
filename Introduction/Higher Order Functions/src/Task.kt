@@ -1,4 +1,4 @@
-fun calculate(x: Int, y: Int, operation: (Int, Int) -> Int): Int {
+fun calculate(x: Int, y: Int, operation: (Int, Int) -> Int): Int { // todo 1
     return operation(x, y)
 }
 
@@ -9,5 +9,5 @@ fun higherOrderSum(x: Int, y: Int): Int {
 }
 
 fun higherOrderMultiplyInline(x: Int, y: Int): Int {
-    return calculate(x, y) { a, b -> a * b }
+    return calculate(x, y) { a, b -> a * b } // todo 2
 }

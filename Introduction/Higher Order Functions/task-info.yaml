@@ -5,9 +5,9 @@ files:
   placeholders:
   - offset: 30
     length: 28
-    placeholder_text: TODO1()
-  - offset: 291
+    placeholder_text: TODO()
+  - offset: 301
     length: 13
-    placeholder_text: TODO2()
+    placeholder_text: TODO()
 - name: test/Tests.kt
   visible: false
