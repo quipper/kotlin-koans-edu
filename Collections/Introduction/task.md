@@ -4,7 +4,6 @@ This section was inspired by [GS Collections Kata](https://github.com/goldmansac
 
 Kotlin can be easily mixed with Java code.
 Default collections in Kotlin are all Java collections under the hood.
-Learn about [read-only and mutable views on Java collections](https://kotlinlang.org/docs/reference/collections-overview.html#collection-types).
 
 The [Kotlin standard library](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/)
 contains lots of extension functions that make working with collections more convenient.
@@ -12,5 +11,8 @@ For example, operations that transform a collection into another one, starting w
 [`toSet`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/to-set.html) or
 [`toList`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/to-list.html).
 
-Implement the extension function `Shop.getSetOfCustomers()`.
-The class `Shop` and all related classes can be found in `Shop.kt`.
+Complete the code to fulfill:
+1. empty customer List
+2. map vararg to List
+3. map List to Set
+
